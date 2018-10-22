@@ -1,1 +1,8 @@
-Para colocar uma descrição do conteúdo da pasta!
+Na pasta está incluido:
+
+-> server.js - servidor javascript
+-> index.pug / layout.pug / template.pug - para criar as páginas html
+-> pasta "estilo" -> com o css
+-> manifesto
+-> index.json - o index para o dataset apresentado
+-> pasta "Extra" - contém os programas em C e Java
