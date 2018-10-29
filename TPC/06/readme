@@ -1,1 +1,9 @@
-Para colocar os ficheiros relativos aos TPC6
+Para colocar os ficheiros relativos aos TPC6:
+
+Esta pasta contém um zip com os seguintes ficheiros:
+
+-> *.pug - ficheiros relativos às páginas HTML
+-> server.js - servidor (porta 9999)
+-> package.json - para fazer a instação do npm
+-> tarefas.json - ficheiro para guardar as tarefas
+-> manifesto - relatorio do TPC
