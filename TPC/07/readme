@@ -1,0 +1,7 @@
+Esta pasta contém um zip com os seguintes ficheiros:
+
+-> *.pug - ficheiros relativos às páginas HTML
+-> server-ficheiro.js - servidor (porta 9999)
+-> package.json - para fazer a instação do npm
+-> pasta uploaded - contm os ficheiros guardados
+-> manifesto - relatorio do TPC
